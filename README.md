@@ -1,4 +1,3 @@
-✅ Let’s Begin: First 3 Sections of the README
 ## 🚀 DevOps End-to-End Project
 This is a full-fledged DevOps project that sets up and executes a CI/CD pipeline for deploying a containerized application to a Kubernetes cluster with code quality, security scanning, and monitoring. The entire project is structured across various phases to simulate a real-world corporate DevOps setup.
 
