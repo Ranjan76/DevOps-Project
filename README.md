@@ -19,6 +19,10 @@ Notifications are sent and monitoring is performed using Prometheus and Grafana
 
 Jira is used for task management
 
+
+![image](https://github.com/user-attachments/assets/16b440fc-256d-45d0-b2dc-50a0b244a5da)
+
+
 ## 🧩 Phases of a Corporate DevOps Pipeline
 The project is divided into multiple structured phases that mirror corporate workflows:
 
